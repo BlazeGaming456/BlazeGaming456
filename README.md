@@ -11,8 +11,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
+**Languages** &nbsp;
 
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -29,8 +28,7 @@
 
 
 
-**Frontend**
-
+**Frontend** &nbsp;
 
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -47,8 +45,7 @@
 
 
 
-**Backend & Infrastructure**
-
+**Backend & Infrastructure** &nbsp;
 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -75,8 +72,7 @@
 
 
 
-**Databases**
-
+**Databases** &nbsp;
 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -93,8 +89,7 @@
 
 
 
-**AI/ML**
-
+**AI/ML** &nbsp;
 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -123,19 +118,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlazeGaming456&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeGaming456&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
----
-
 ## 📫 Connect
 
 <div align="center">
-
 [
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -156,7 +141,6 @@
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:ajincraju@gmail.com)
-
 </div>
 
 ---
