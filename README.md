@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Ajin 👋</h1>
   <p>🎓 B.Tech ECE @ IIITDM Jabalpur &nbsp;·&nbsp; 🏆 Branch Topper &nbsp;·&nbsp; 💻 Full Stack + AI/ML</p>
   <p><em>I build end-to-end systems that combine ML backends with production-grade full-stack frontends.</em></p>
-  <p>Currently interning at <strong>Accenture (AEH)</strong> - building an AI-powered internal enterprise platform.</p>
+  <p>Interned at <strong>Accenture (AEH)</strong> - building an AI-powered internal enterprise platform.</p>
 </div>
 
 ---
