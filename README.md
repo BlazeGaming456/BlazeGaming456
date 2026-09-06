@@ -48,8 +48,8 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**SkillSlate**](https://skillslate.vercel.app) | AI resume platform — ATS scoring, LaTeX PDF export, GitHub review, Gemini bullet enhancement | Next.js · PostgreSQL · Gemini API |
-| **FinGuard** | Finance dashboard — Prophet forecasting, Monte Carlo simulation, VaR/CVaR risk scoring | Next.js · FastAPI · Prophet |
-| **Harbinger** | Distributed API degradation tracker — Redis anomaly detection, WebSocket dashboard | Node.js · Redis · Docker |
+| [**FinGuard**](https://finguard-liard.vercel.app/) | Finance dashboard — Prophet forecasting, Monte Carlo simulation, VaR/CVaR risk scoring | Next.js · FastAPI · Prophet |
+| [**Harbinger**](https://harbinger-frontend-cyan.vercel.app/) | Distributed API degradation tracker — Redis anomaly detection, WebSocket dashboard | Node.js · Redis · Docker |
 
 ---
 
